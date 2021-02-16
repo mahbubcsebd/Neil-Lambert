@@ -1,0 +1,55 @@
+/*@media screen and (max-width:1199px){
+    .hero-content {
+        width: 506%;
+        text-align: center;
+    }
+    .lw {
+        width: 100%;
+    }
+    section#table {
+        overflow: scroll;
+    }
+}
+
+
+@media screen and (max-width:1024px){
+    
+.content-fetures {
+    width: 40%;   
+}
+.form-content{
+        width: 88%;
+    padding: 0 40px;
+}
+.form-offer {
+    padding: 0 40px;
+    text-align: center;
+}
+    .selling-content{
+        width: 100%;
+    }
+    .block{
+        display: block;
+    }
+    
+}
+
+
+@media screen and (max-width: 768px){
+ .
+}
+
+
+*/
+
+
+
+@media screen and (max-width: 1199px){
+    .content-fetures {
+    width: 100%;
+}
+.form-content {
+    width: 100%;
+    text-align: center;
+    }
+}
